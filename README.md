@@ -2,7 +2,7 @@
 
 I'm Konstantin, a Software Engineer and student at Vienna University of Technology working as a Full Stack Developer.
 
-🔧 C#, TypeScript, Java
+🔧 C#, TypeScript, Python, Java
 
 🌐 English, German
 
