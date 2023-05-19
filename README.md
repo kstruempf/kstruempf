@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Konstantin, a Software Engineer and student at Vienna University of Technology working as a Full Stack Developer.
+
+🔧 C#, TypeScript, Java
+
+🌐 English, German
+
+📫 konstantin@struempf.dev
+
 <!--
 **kstruempf/kstruempf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
