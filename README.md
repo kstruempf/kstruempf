@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### Credits
+
+Profile Photo: Franziska Safranek | TU Wien Innovation Incubation Center i²c
