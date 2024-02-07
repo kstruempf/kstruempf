@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Konstantin, a Software Engineer and student at Vienna University of Technology working as a Full Stack Developer.
+I'm Konstantin, a Software Engineer, Co-Founder @ [Independo](https://www.independo.app) and student @ Vienna University of Technology.
 
 🔧 C#, TypeScript, Python, Java
 
